@@ -4,6 +4,8 @@
 
 [Storybook Intro](https://storybook.js.org/docs/react/get-started/introduction)
 
+[Storybook Controls](https://storybook.js.org/docs/react/essentials/controls)
+
 [Mui](https://mui.com/)
 
 ```javascript
