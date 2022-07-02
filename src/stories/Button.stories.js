@@ -19,3 +19,8 @@ export const GreenButton = Template.bind({});
 GreenButton.args = {
   backgroundColor: "green",
 };
+
+// export const BlueButton = Template.bind({});
+// GreenButton.args = {
+//   backgroundColor: "blue",
+// };
