@@ -22,6 +22,6 @@ GreenButton.args = {
 };
 
 export const BlueButton = Template.bind({});
-GreenButton.args = {
+BlueButton.args = {
   backgroundColor: "blue",
 };
