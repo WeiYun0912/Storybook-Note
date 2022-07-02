@@ -21,7 +21,7 @@ GreenButton.args = {
   label: "Heee",
 };
 
-// export const BlueButton = Template.bind({});
-// GreenButton.args = {
-//   backgroundColor: "blue",
-// };
+export const BlueButton = Template.bind({});
+GreenButton.args = {
+  backgroundColor: "blue",
+};
