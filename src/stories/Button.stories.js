@@ -25,3 +25,8 @@ export const BlueButton = Template.bind({});
 BlueButton.args = {
   backgroundColor: "blue",
 };
+
+export const YellowButton = Template.bind({});
+YellowButton.args = {
+  backgroundColor: "yellow",
+};
